@@ -11,5 +11,6 @@ Specialty coffee e-commerce built by 1001 Labs for the Generation Java Full Stac
 # Run the Spring Boot application
 ./mvnw spring-boot:run
 
-
+# Dev LuisAngel
+Dev Web Frontend and Backend
 
