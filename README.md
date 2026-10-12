@@ -6,6 +6,9 @@ Specialty coffee e-commerce built by 1001 Labs for the Generation Java Full Stac
 * **Database:** MySQL, Spring Data JPA
 * **Production Domain:** `coffeemod.shop`
 
+## Rol
+Sergio Estrada Vázquez.(RedMoon73uwu)  |  Login/mi perfil, carrito | wireframe figma
+
 ## Local Development
 ```bash
 # Run the Spring Boot application
