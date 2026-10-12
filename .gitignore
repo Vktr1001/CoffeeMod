@@ -1,0 +1,15 @@
+# Maven / Spring Boot
+target/
+*.class
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Variables de entorno / credenciales
+.env
