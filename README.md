@@ -6,11 +6,6 @@ Specialty coffee e-commerce built by 1001 Labs for the Generation Java Full Stac
 * **Database:** MySQL, Spring Data JPA
 * **Production Domain:** `coffeemod.shop`
 
-## Local Development
-```bash
-# Run the Spring Boot application
-./mvnw spring-boot:run
-
 ## Qué quiero hacer
 - Construir mis tareas del sprint con HTML, CSS, Bootstrap y JavaScript
 - Trabajar con ramas, commits y pull requests como en un equipo real
@@ -21,3 +16,7 @@ Specialty coffee e-commerce built by 1001 Labs for the Generation Java Full Stac
 - Entregar un sitio funcional y bien documentado para el lanzamiento del 4 de diciembre
 - Reforzar mis bases para trabajar como desarrolladora
 
+## Local Development
+```bash
+# Run the Spring Boot application
+./mvnw spring-boot:run
